@@ -1,1 +1,1 @@
-### Hi there, I'm Oluwasanumi 👋🏼
+### Hi there, I'm Oluwasanumi 👋🏽
