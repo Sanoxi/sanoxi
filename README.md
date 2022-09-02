@@ -1,6 +1,6 @@
 ### Hi there, I'm Oluwasanumi 👋🏽
   
-https://twitter.com/i_am_sanoxi
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/i_am_sanoxi.svg?style=social&label=Follow%20%40i_am_sanoxi)](https://twitter.com/i_am_sanoxi)
 
  #### **I'm a Software Engineer**
  
