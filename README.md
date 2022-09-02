@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Oluwasanumi</h1>
+<h1 align="center">Hello 👋🏽, I'm Oluwasanumi</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
 - 🔭 I'm currently studying at Alx Africa [School of Software Engineering](https://www.alxafrica.com/)
