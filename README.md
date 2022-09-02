@@ -8,8 +8,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanoxi&show_icons=true)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanoxi)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/sanoxi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanoxi)  
