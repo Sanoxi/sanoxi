@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋🏽, I'm Oluwasanumi</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-- 🔭 I'm currently studying at Alx Africa [School of Software Engineering](https://www.alxafrica.com/)
+- 🔭 Self-learning **Java, Spring and Enterprise software.**
 
-- ⚡ Learning **C, Java, JavaScript and Python.**
-
-- 🤝 I’m looking to connect with **other developers in the same field as I am.**
+- ⚡  I’m looking to connect with **other developers in the same field as I am.**
 
 - 📫 **oluwasanumibalogun@gmail.com**
 
